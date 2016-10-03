@@ -312,7 +312,7 @@
   </reporting>
 
   <properties>
-    <bundle.export.package>!com.thoughtworks.xstream.core.util,com.thoughtworks.xstream.*;-noimport:=true</bundle.export.package>
+    <bundle.export.package>com.thoughtworks.xstream.*;-noimport:=true</bundle.export.package>
   </properties>
 
 </project>
