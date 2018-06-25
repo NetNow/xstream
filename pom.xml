@@ -14,7 +14,7 @@
   <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
   <artifactId>com.myitops.external.xstream-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.5.0-SNAPSHOT</version>
+  <version>1.5.0.1</version>
   <name>XStream Parent</name>
   <url>http://x-stream.github.io</url>
   <description>
@@ -248,12 +248,12 @@
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
         <classifier>tests</classifier>
         <type>test-jar</type>
         <scope>test</scope>
@@ -261,43 +261,43 @@
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream-hibernate</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream-hibernate</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream-jmh</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream-jmh</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream-benchmark</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
         <artifactId>com.myitops.external.xstream-benchmark</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <version>1.5.0.1</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>
