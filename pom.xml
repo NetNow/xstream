@@ -846,10 +846,10 @@
   </distributionManagement>
 
   <scm>
-    <url>http://github.com/x-stream/xstream</url>
-    <developerConnection>scm:git:https://github.com/x-stream/xstream.git</developerConnection>
-    <connection>scm:git:https://github.com/x-stream/xstream.git</connection>
-    <tag>HEAD</tag>
+    <url>http://github.com/NetNow/xstream</url>
+    <developerConnection>scm:git:https://github.com/NetNow/xstream.git</developerConnection>
+    <connection>scm:git:https://github.com/NetNow/xstream.git</connection>
+    <tag>1.5.0-SNAPSHOT_camel_osgi</tag>
   </scm>
   
   <properties>
