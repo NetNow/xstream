@@ -834,17 +834,15 @@
 
   <distributionManagement>
     <repository>
-      <id>ossrh-staging</id>
-      <url>http://oss.sonatype.org/service/local/staging/deploy/maven2</url>
+      <id>thirdparty</id>
+      <name>Thirdparty Repository</name>
+      <url>http://reposerver.int-link.com/nexus/content/repositories/thirdparty</url>
     </repository>
     <snapshotRepository>
-      <id>ossrh-snapshots</id>
-      <url>http://oss.sonatype.org/content/repositories/snapshots</url>
+      <id>thirdparty-snapshots</id>
+      <name>Thirdparty Snapshot Repository</name>
+      <url>http://reposerver.int-link.com/nexus/content/repositories/thirdparty-snapshots</url>
     </snapshotRepository>
-    <!--site>
-      <id>github</id>
-      <url>scm:git:ssh://git@github.com/x-stream/x-stream.github.io.git</url>
-    </site-->
   </distributionManagement>
 
   <scm>
