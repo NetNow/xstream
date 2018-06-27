@@ -11,10 +11,10 @@
      Created on 29. July 2006 by Mauro Talevi
      -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.thoughtworks.xstream</groupId>
-  <artifactId>xstream-parent</artifactId>
+  <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+  <artifactId>com.myitops.external.xstream-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.5.0-SNAPSHOT</version>
+  <version>1.5.0.1</version>
   <name>XStream Parent</name>
   <url>http://x-stream.github.io</url>
   <description>
@@ -246,58 +246,58 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream</artifactId>
+        <version>1.5.0.1</version>
       </dependency>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream</artifactId>
+        <version>1.5.0.1</version>
         <classifier>tests</classifier>
         <type>test-jar</type>
         <scope>test</scope>
       </dependency>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream</artifactId>
+        <version>1.5.0.1</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream-hibernate</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream-hibernate</artifactId>
+        <version>1.5.0.1</version>
       </dependency>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream-hibernate</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream-hibernate</artifactId>
+        <version>1.5.0.1</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream-jmh</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream-jmh</artifactId>
+        <version>1.5.0.1</version>
       </dependency>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream-jmh</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream-jmh</artifactId>
+        <version>1.5.0.1</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream-benchmark</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream-benchmark</artifactId>
+        <version>1.5.0.1</version>
       </dependency>
       <dependency>
-        <groupId>com.thoughtworks.xstream</groupId>
-        <artifactId>xstream-benchmark</artifactId>
-        <version>1.5.0-SNAPSHOT</version>
+        <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+        <artifactId>com.myitops.external.xstream-benchmark</artifactId>
+        <version>1.5.0.1</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>

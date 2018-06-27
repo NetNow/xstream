@@ -11,18 +11,18 @@
      -->
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.thoughtworks.xstream</groupId>
-    <artifactId>xstream-parent</artifactId>
+    <groupId>com.myitops.external.com.thoughtworks.xstream</groupId>
+    <artifactId>com.myitops.external.xstream-parent</artifactId>
     <version>1.4.2-SNAPSHOT</version>
   </parent>
-  <artifactId>xstream-builder</artifactId>
+  <artifactId>com.myitops.external.xstream-builder</artifactId>
   <packaging>jar</packaging>
   <name>XStream Builder</name>
 
   <dependencies>
     <dependency>
       <groupId>${project.groupId}</groupId>
-      <artifactId>xstream</artifactId>
+      <artifactId>com.myitops.external.xstream</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
